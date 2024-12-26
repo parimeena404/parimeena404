@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pari Meena.
 - 👀 I’m interested in leaning and gaining insightful knowledge.
-- 🌱 I’m currently pursuing BE in Computer Science.
+- 🌱 Currently pursuing BE in Computer Science.
 - 😄 Pronouns: she/her
 
 <!---
