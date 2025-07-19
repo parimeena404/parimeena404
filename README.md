@@ -107,15 +107,6 @@
 </p
 
 
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/parimeena404/parimeena404/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ### 💡 Quote I follow:
