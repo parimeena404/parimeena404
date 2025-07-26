@@ -108,10 +108,29 @@
 
 
 ---
+---
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&duration=10&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&lines=My+Contributions+)](https://git.io/typing-svg)
+
+<div align="center">
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+
+<!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
+
+  <br/><br/><br/>
+</div>
+<br/>
+<br/>
+
+---
 
 ### 💡 Quote I follow:
 
 <p align="center"><i>“If you want to shine like the sun, first burn like the sun.” — Dr. A.P.J. Abdul Kalam</i></p>
-
-
-
+<br>
