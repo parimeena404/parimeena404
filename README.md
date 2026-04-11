@@ -17,8 +17,8 @@
 ### 🚀 About Me
 
 - 🎓 Computer Engineering student at IET DAVV, passionate about software engineering and meaningful tech.
-- 🤖 Hands-on experience with AI tools and NLP-based applications.
-- 🌱 Currently learning System Design, Advanced DSA, and contributing to open-source projects.
+- 🤖 Hands-on experience with AI tools and LLM-based applications.
+- 🌱 Currently learning System Design, Product tools, and contributing to open-source projects.
 - 🌍 Actively building real-world applications to solve practical problems through code.
 - 🤝 Open to internships, tech communities, and collaborations that foster growth.
 
