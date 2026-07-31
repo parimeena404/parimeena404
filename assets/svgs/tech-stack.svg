@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 300" width="800" height="300">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;display=swap');
+        * { box-sizing: border-box; font-family: 'Inter', system-ui, sans-serif; }
+        .container {
+          width: 100%; height: 100%; display: flex;
+          flex-direction: column; justify-content: center;
+          padding: 20px;
+        }
+        .grid {
+          display: grid;
+          grid-template-columns: repeat(4, 1fr);
+          gap: 16px;
+          width: 100%;
+        }
+        .category {
+          background: rgba(124, 58, 237, 0.05);
+          border: 1px solid rgba(168, 85, 247, 0.2);
+          border-radius: 12px;
+          padding: 16px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          transition: all 0.3s ease;
+        }
+        .category:hover {
+          border-color: #38BDF8;
+          box-shadow: 0 0 15px rgba(56, 189, 248, 0.2);
+          transform: translateY(-2px);
+        }
+        .title {
+          color: #A855F7; font-size: 0.9rem; font-weight: 600;
+          margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.05em;
+        }
+        .icons {
+          display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;
+        }
+        .badge {
+          background: rgba(255, 255, 255, 0.05);
+          border: 1px solid rgba(255, 255, 255, 0.1);
+          color: #E6EDF3; font-size: 0.8rem;
+          padding: 4px 10px; border-radius: 20px;
+        }
+      </style>
+      <div class="container">
+        <div class="grid">
+          <!-- Frontend -->
+          <div class="category">
+            <div class="title">Frontend</div>
+            <div class="icons">
+              <span class="badge">React</span>
+              <span class="badge">Next.js</span>
+              <span class="badge">TypeScript</span>
+              <span class="badge">TailwindCSS</span>
+              <span class="badge">HTML/CSS</span>
+            </div>
+          </div>
+          <!-- Backend -->
+          <div class="category">
+            <div class="title">Backend</div>
+            <div class="icons">
+              <span class="badge">Node.js</span>
+              <span class="badge">Express</span>
+              <span class="badge">Java</span>
+              <span class="badge">C++</span>
+              <span class="badge">Python</span>
+            </div>
+          </div>
+          <!-- Database & Cloud -->
+          <div class="category">
+            <div class="title">Data &amp; Cloud</div>
+            <div class="icons">
+              <span class="badge">MongoDB</span>
+              <span class="badge">PostgreSQL</span>
+              <span class="badge">Firebase</span>
+              <span class="badge">Vercel</span>
+              <span class="badge">AWS</span>
+            </div>
+          </div>
+          <!-- Tools & Mobile -->
+          <div class="category">
+            <div class="title">Tools &amp; Mobile</div>
+            <div class="icons">
+              <span class="badge">Dart</span>
+              <span class="badge">Flutter</span>
+              <span class="badge">Git/GitHub</span>
+              <span class="badge">Figma</span>
+              <span class="badge">Linux</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
