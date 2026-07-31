@@ -62,13 +62,6 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌈 ANIMATED LINE DIVIDER                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ TECH STACK                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -124,39 +117,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ FEATURED PROJECTS                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">✨ Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/parimeena404/CalciSOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parimeena404&repo=CalciSOS&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/parimeena404/TrackNest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parimeena404&repo=TrackNest&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/parimeena404/Personal-OSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parimeena404&repo=Personal-OSystem&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/parimeena404/AlgoAssembly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parimeena404&repo=AlgoAssembly&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/parimeena404/Future-Pilots">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parimeena404&repo=Future-Pilots&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/parimeena404/Travel-Booking-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parimeena404&repo=Travel-Booking-App&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9" />
-  </a>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌈 ANIMATED LINE DIVIDER                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB STATS                                                       -->
