@@ -5,14 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4c1d95,50:7c3aed,100:a855f7&section=header&text=Pari%20Meena&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20Published%20Author%20%7C%20Builder&descAlignY=55&descAlign=62&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ✨ TYPING ANIMATION                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Turning+ideas+into+impact+⚡;Building+products+that+solve+real+problems+🚀;Architecting+scalable+systems+🏗️;Code+is+poetry+written+for+machines+✨" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🔗 SOCIAL BADGES                                                      -->
@@ -67,14 +60,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHIES                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parimeena404&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🌈 ANIMATED LINE DIVIDER                                              -->
@@ -208,7 +193,7 @@
 <!-- 💬 RANDOM DEV QUOTE                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">💬 Dev Quote of the Day</h2>
+<h2 align="center">💬 Thinking, Coding, Creating...</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
