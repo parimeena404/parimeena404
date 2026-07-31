@@ -41,10 +41,8 @@
 - 🎓 **Computer Engineering Student** at IET DAVV, Indore 🇮🇳
 - 📖 **Published Author & Poet** — blending creativity with code
 - 💡 Passionate about **Full Stack Dev, System Design & AI**
-- 🔭 Currently building **CalciSOS** — a hidden SOS trigger disguised as a calculator
-- 🌱 Learning **Advanced System Design & Cloud Architecture**
 - 🤝 Open to **internships, collaborations & open-source**
-- 🎯 Goal: Become a **world-class Software Engineer**
+- 🎯 Goal: Become a **World-class Software Engineer**
 - ⚡ Fun Fact: **I write poetry as beautifully as I write code**
 
 <br/>
