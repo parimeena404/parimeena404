@@ -1,28 +1,23 @@
 <div align="center">
 
-<!-- HERO SECTION -->
-<a href="https://github.com/parimeena404">
-  <img src="assets/svgs/hero-banner.svg" alt="Pari Meena Hero Banner" width="100%" />
-</a>
+<h1 align="center">Hi 👋, I'm Pari Meena</h1>
+<h3 align="center">🚀 Learner | Full‑Stack Developer | Creative Engineer</h3>
 
-<br/>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Turning+ideas+into+impact+⚡;Architecting+systems;Crafting+poetry;Breaking+boundaries" alt="Typing SVG" />
+</p>
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="mailto:parimeena@example.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=minutemailer&logoColor=38BDF8&borderColor=7C3AED" alt="Email" />
+  <a href="mailto:parimeena404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8&borderColor=7C3AED" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/parimeena">
+  <a href="https://linkedin.com/in/pari-meena-5b7814297">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&borderColor=7C3AED" alt="LinkedIn" />
   </a>
-  <a href="https://best-solution-website.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8&borderColor=7C3AED" alt="Portfolio" />
-  </a>
-  <a href="https://instagram.com/parimeena">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=38BDF8&borderColor=7C3AED" alt="Instagram" />
-  </a>
-  <a href="https://x.com/parimeena">
-    <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=38BDF8&borderColor=7C3AED" alt="X (Twitter)" />
+  <a href="https://github.com/parimeena404/pari_portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&borderColor=7C3AED" alt="Portfolio" />
   </a>
 </p>
 
@@ -40,10 +35,20 @@
 
 <!-- WHO AM I -->
 <br/>
-<h3 align="center">⚡ Designing the Future, One Line of Code at a Time</h3>
-<p align="center">
-  I am a <strong>Computer Engineering student, published author, and poet</strong> based in Indore, India. I don't just write code; I architect solutions that solve real human problems. With a deep passion for Full Stack Development, System Design, and AI, I build robust, scalable, and beautifully designed digital experiences. As a woman in tech, my mission is to break boundaries and engineer systems that leave a lasting impact.
-</p>
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none;">
+      <h3>⚡ Designing the Future, One Line of Code at a Time</h3>
+      <p>
+        I am a <strong>Computer Engineering student, published author, and poet</strong> based in Indore, India. I don't just write code; I architect solutions that solve real human problems. With a deep passion for Full Stack Development, System Design, and AI, I build robust, scalable, and beautifully designed digital experiences. As a woman in tech, my mission is to break boundaries and engineer systems that leave a lasting impact.
+      </p>
+    </td>
+    <td width="40%" style="border: none;" align="center">
+      <img alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
+    </td>
+  </tr>
+</table>
+
 <br/>
 
 <!-- CURRENT FOCUS TABLE -->
@@ -158,7 +163,9 @@
 <br/>
 
 <!-- SNAKE ANIMATION -->
-<h2 align="center">🐍 Contribution Graph</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&duration=10&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&lines=My+Contributions+" alt="My Contributions">
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parimeena404/parimeena404/output/dist/github-contribution-grid-snake-dark.svg">
@@ -171,12 +178,14 @@
 
 ---
 
+<h3 align="center">💡 Quote I follow:</h3>
 <p align="center">
+  <i>“If you want to shine like the sun, first burn like the sun.” — Dr. A.P.J. Abdul Kalam</i><br><br>
   <i>"Code is poetry written for machines to understand, and for humans to appreciate."</i>
 </p>
 
 <p align="center">
-  <a href="mailto:parimeena@example.com">Let's build something amazing together.</a>
+  <a href="mailto:parimeena404@gmail.com">Let's build something amazing together.</a>
 </p>
 
 </div>
