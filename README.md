@@ -116,20 +116,6 @@
 </p>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parimeena404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parimeena404&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=parimeena404&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakNum=ffffff&sideLabels=A855F7&currStreakLabel=A855F7&dates=c9d1d9" />
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 📈 ACTIVITY GRAPH                                                     -->
