@@ -43,4 +43,3 @@ jobs:
           
           # Setup custom colors (Dark Theme)
           config_order: base.header, isocalendar, languages
-          plugin_isocalendar_colors: "purple"
