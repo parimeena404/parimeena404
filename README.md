@@ -13,7 +13,7 @@
 <p align="center">
   <a href="mailto:parimeena404@gmail.com"><img src="https://img.shields.io/badge/Gmail-parimeena404-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/pari-meena-5b7814297"><img src="https://img.shields.io/badge/LinkedIn-Pari%20Meena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/parimeena404/pari_portfolio"><img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/parimeena404/Pari-Portfolio-main"><img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/parimeena404"><img src="https://img.shields.io/badge/GitHub-parimeena404-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -115,7 +115,42 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 PORTFOLIO                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
+<h2 align="center">🚀 Portfolio</h2>
+
+<div align="center">
+
+  <a href="https://github.com/parimeena404/Pari-Portfolio-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parimeena404&repo=Pari-Portfolio-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=FFFFFF" />
+  </a>
+
+  <br/><br/>
+
+  **A modern, responsive portfolio website built with Next.js 16, React 19, TypeScript & Tailwind CSS**
+
+  <p>
+    <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </p>
+
+  ✨ Dark Mode · 🎨 Smooth Animations · 📱 Fully Responsive · 📬 Contact Form with MongoDB
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🌈 ANIMATED LINE DIVIDER                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 📈 ACTIVITY GRAPH                                                     -->
