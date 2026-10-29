@@ -13,7 +13,7 @@
 <p align="center">
   <a href="mailto:parimeena404@gmail.com"><img src="https://img.shields.io/badge/Gmail-parimeena404-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/pari-meena-5b7814297"><img src="https://img.shields.io/badge/LinkedIn-Pari%20Meena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/parimeena404/Pari-Portfolio-main"><img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/parimeena404/pari-portfolio-main"><img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/parimeena404"><img src="https://img.shields.io/badge/GitHub-parimeena404-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -116,48 +116,49 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 PORTFOLIO                                                          -->
+<!-- 🚀 FEATURED PORTFOLIO                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🚀 Portfolio</h2>
+<h2 align="center">🚀 Featured Portfolio Project</h2>
 
 <div align="center">
 
-  <a href="https://github.com/parimeena404/Pari-Portfolio-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parimeena404&repo=Pari-Portfolio-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=FFFFFF" />
+### 🌟 [Pari Meena — Modern Developer Portfolio](https://github.com/parimeena404/pari-portfolio-main)
+
+<p>
+  <a href="https://github.com/parimeena404/pari-portfolio-main">
+    <img src="https://img.shields.io/badge/GitHub_Repo-pari--portfolio--main-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://github.com/parimeena404/pari-portfolio-main/stargazers">
+    <img src="https://img.shields.io/github/stars/parimeena404/pari-portfolio-main?style=for-the-badge&color=A855F7&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/parimeena404/pari-portfolio-main/network/members">
+    <img src="https://img.shields.io/github/forks/parimeena404/pari-portfolio-main?style=for-the-badge&color=4c1d95&logo=github&logoColor=white" />
+  </a>
+</p>
 
-  <br/><br/>
+> **A modern, responsive portfolio website built with Next.js 16, React 19, TypeScript & Tailwind CSS**  
+> Showcasing Smart India Hackathon 2025 winner projects, interactive UI, dark mode, and MongoDB integration.
 
-  **A modern, responsive portfolio website built with Next.js 16, React 19, TypeScript & Tailwind CSS**
+<p>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </p>
+✨ Dark Mode · 🎨 Framer Motion Animations · 📱 100% Mobile Responsive · 📬 MongoDB Contact Form
 
-  ✨ Dark Mode · 🎨 Smooth Animations · 📱 Fully Responsive · 📬 Contact Form with MongoDB
+<br/>
+
+<a href="https://github.com/parimeena404/pari-portfolio-main">
+  <img src="https://img.shields.io/badge/Explore_Source_Code_%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌈 ANIMATED LINE DIVIDER                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 ACTIVITY GRAPH                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parimeena404&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&area_color=4c1d95&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🌈 ANIMATED LINE DIVIDER                                              -->
@@ -185,8 +186,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </p>
 
-
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 💬 RANDOM DEV QUOTE                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -203,10 +202,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f890e9a0f.gif" width="100" />
-  <br/><br/>
-  <b>✨ Women Who Code — Breaking Barriers, Building the Future ✨</b>
-  <br/>
+  <p>✨ <b>Women Who Code — Breaking Barriers, Building the Future</b> ✨</p>
   <i>Proudly contributing to a more diverse and inclusive tech industry.</i>
 </div>
 
